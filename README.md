@@ -1,6 +1,6 @@
 ### Hi, I'm Surkhab!
 
-🧑‍💻 Computer Science student working towards an internship<br/>
+🧑‍💻 Intern @ TC Energy! <br/>
 🏫 In my third year at the University of Calgary!<br/>
 🧐 Currently reviewing and relearning React<br/>
 
