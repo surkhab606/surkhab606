@@ -2,4 +2,4 @@
 
 🧑‍💻 Intern @ TC Energy! <br/>
 🏫 Third year Computer Science student at the University of Calgary!<br/>
-🧐 Currently reviewing and relearning React<br/>
+🧐 Currently learning C++<br/>
